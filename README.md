@@ -11,17 +11,17 @@ This code captures thermal images from the default camera device, applies thresh
 
 - Clone the repository
 ```
-git clone https://github.com/noorkhokhar99/YOLOv8-football.git
+git clone https://github.com/noorkhokhar99/real-time-temperature-detection.git
 ```
 
 - Goto cloned folder
 ```
-cd YOLOv8-football
+cd real-time-temperature-detection
 ```
 
 - Install the ultralytics package
 ```
-pip install ultralytics==8.0.0
+pip install -r requirements
 ```
 
 - Do Tracking with mentioned command below
@@ -33,7 +33,7 @@ python th.py
 ### Results
 <table>
   <tr>
-    <td>YOLOv8s face detection</td>
+    <td>Real-time-temperature-detection</td>
   </tr>
   <tr>
     <td><img src="https://github.com/noorkhokhar99/real-time-temperature-detection/blob/main/Screen%20Shot%202023-03-24%20at%208.52.10%20pm.png"></td>
@@ -45,5 +45,4 @@ python th.py
 If you find my videos useful,  I would love your support on Pyresearch: https://youtu.be/_eSArKZBWmE
 
 
-download weight from here: https://drive.google.com/drive/folders/1AqfV35JcWXoxOOpAv8O_9wF57xmXbZVZ?usp=share_link
 
