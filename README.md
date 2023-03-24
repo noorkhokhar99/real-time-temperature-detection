@@ -1,1 +1,1 @@
-# real-time-temperature-detection
+# Real-time-temperature-detection
