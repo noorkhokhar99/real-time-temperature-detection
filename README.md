@@ -35,7 +35,9 @@ python th.py
     <td>Real-time-temperature-detection</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/noorkhokhar99/real-time-temperature-detection/blob/main/Screen%20Shot%202023-03-24%20at%208.52.10%20pm.png"></td>
+    [![Watch the video](https://github.com/noorkhokhar99/real-time-temperature-detection/blob/main/Screen%20Shot%202023-03-24%20at%208.52.10%20pm.png)](https://www.youtube.com/watch?v=VxGgWmZQX8M&t=276s)
+
+    
   </tr>
  </table>
 
