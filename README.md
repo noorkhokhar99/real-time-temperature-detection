@@ -26,7 +26,7 @@ pip install -r requirements
 
 - Do Tracking with mentioned command below
 ```
-#imagefile
+# run file
 python th.py
 ```
 
