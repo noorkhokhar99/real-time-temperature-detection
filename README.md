@@ -24,9 +24,8 @@ cd real-time-temperature-detection
 pip install -r requirements
 ```
 
-- Do Tracking with mentioned command below
+- Do run with mentioned command below
 ```
-# run file
 python th.py
 ```
 
